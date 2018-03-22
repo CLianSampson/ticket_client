@@ -1,0 +1,70 @@
+/**index.wxss**/
+
+.container{
+  background: rgb(215, 234, 247);
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+}
+
+.seperate {
+  background: rgb(216, 216, 216);
+  height: 2rpx;
+}
+
+
+input {
+  background: rgb(216, 216, 216);
+  height: 88rpx;
+  margin-top: 88rpx;
+  text-align: center;
+  font-size: 28rpx;
+}
+
+#querybtn {
+  background: rgb(216, 216, 216);
+  margin-top:88rpx; 
+  text-align: center;
+  width: 300rpx;
+  vertical-align: middle;
+  font-size: 36rpx;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
